@@ -5,9 +5,9 @@ public class NytNyt {
 
 
 
-// nyt halløj
 
-//HGSDYGSDYE
+
+
 
 // Master 2
 // Master 1
