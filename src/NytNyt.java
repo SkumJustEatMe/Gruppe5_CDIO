@@ -1,7 +1,7 @@
 public class NytNyt {
     public static void main(String[] args) {
 // A1
-
+System.out.println();
 
 
 // syg kommentar bro
@@ -12,4 +12,6 @@ public class NytNyt {
 // Master 2
 // Master 1
     }
+
+
 }
